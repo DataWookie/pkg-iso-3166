@@ -1,0 +1,14 @@
+Package: iso3166
+Type: Package
+Title: Mapping country codes to country names
+Version: 0.1.0
+Author: Andrew B. Collier <andrew@exegetic.biz>
+Maintainer: Andrew B. Collier <andrew@exegetic.biz>
+Description: The ISO 3166 standard provides three types of country codes (two
+    and three letter codes as well as a numeric code). This package provides
+    functions for mapping from country codes to country names.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
